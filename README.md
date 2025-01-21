@@ -1,6 +1,8 @@
 # Amigo Secreto
 
-![Badge OneOracle](./badge_oneOracle.webp)
+<p align="center">
+  <img src="./badge_oneOracle.webp" alt="Badge OneOracle">
+</p>
 
 Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de amigos e sortear um nome aleatório. Quando todos os nomes forem sorteados, o processo reinicia automaticamente.
 
@@ -17,7 +19,7 @@ Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de 
     git clone https://github.com/diegobremer/projeto-amigo-secreto
     ```
 
-2. Abra o arquivo [index.html](http://_vscodecontentref_/0) no seu navegador.
+2. Abra o arquivo [index.html] no seu navegador.
 
 3. Adicione nomes de amigos no campo de entrada e clique em "Adicionar Amigo".
 
@@ -27,9 +29,9 @@ Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de 
 
 ## Estrutura do Projeto
 
-- [index.html](http://_vscodecontentref_/1): Contém a estrutura HTML da aplicação.
-- [app.js](http://_vscodecontentref_/2): Contém a lógica JavaScript para adicionar amigos, sortear nomes e reiniciar o sorteio.
-- [style.css](http://_vscodecontentref_/3): Contém os estilos CSS para a aplicação.
+- [index.html]: Contém a estrutura HTML da aplicação.
+- [app.js]: Contém a lógica JavaScript para adicionar amigos, sortear nomes e reiniciar o sorteio.
+- [style.css]: Contém os estilos CSS para a aplicação.
 
 ## Contribuição
 
