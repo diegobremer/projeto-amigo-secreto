@@ -1,5 +1,7 @@
 # Amigo Secreto
 
+![Badge OneOracle](./badge_oneOracle.webp)
+
 Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de amigos e sortear um nome aleatório. Quando todos os nomes forem sorteados, o processo reinicia automaticamente.
 
 ## Funcionalidades
